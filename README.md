@@ -3,7 +3,7 @@ A free download of my single drum template for MIDI mapping in TouchDesigner usi
 including a Sensory set file with a single drum MIDI starter template and a blank kit building template. 
 
 Visit the assets folder and download direct from GitHub! Must have TouchDesigner already installed in order to open 
-and use template. Visit deritivative.ca for a free download.
+and use template. Visit https://derivative.ca/ for a free download.
 
 MIDI Mapping directions:
 
